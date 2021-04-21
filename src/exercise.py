@@ -4,7 +4,7 @@ def main():
     userNumber = int(input(""))
     i = 0
 
-    while (i<userNumber):
+    while (i<=userNumber):
       print(i)
       i += 1
 
